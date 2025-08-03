@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Letter Markup</title>
+</head>
+<body>
+  <address>
+    <p>Dr. Kavita Menon<br>
+    Department of Advanced Sciences<br>
+    Indian Institute of Science<br>
+    Bengaluru, Karnataka 560012<br>
+    India</p>
+
+    <p>Tel: +91-80-2293-2000<br>
+    Email: <a href="mailto:kavita.menon@iisc.ac.in">kavita.menon@iisc.ac.in</a></p>
+  </address>
+
+  <p><time datetime="2025-01-20">20 January 2025</time></p>
+
+  <address>
+    <p>Ms. Riya Nair<br>
+    14, Lotus Villa<br>
+    Vazhuthacaud, Thiruvananthapuram<br>
+    Kerala 695014<br>
+    India</p>
+  </address>
+
+  <p>Dear Riya,</p>
+
+  <p>Thank you for your recent application to join our Ph.D. program at the Indian Institute of Science. After careful review of your profile, we regret to inform you that we are unable to offer you a position in the current academic cycle.</p>
+
+  <p>We received an overwhelming number of highly qualified applications, making the selection process extremely competitive. We encourage you to continue your academic pursuits and reapply in the future.</p>
+
+  <p>Wishing you the very best in your academic and professional journey.</p>
+
+  <p>Yours sincerely,</p>
+
+  <p>Dr. Kavita Menon</p>
+</body>
+</html>
